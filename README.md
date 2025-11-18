@@ -7,8 +7,9 @@ Please analyze the overall feasibility of large-scale commercial deployment of h
 
 1) Analysis of **commercial feasibility**
 
-• List **two industries** that you believe have the **greatest potential for commercial deployment of humanoid robots** (i.e., “relatively feasible compared with non-humanoid robots”), and provide a detailed justification of the core reasons for their feasibility (focus on both commercial value and commercial feasibility).
-• List **two industries** that you believe are **least likely to see short-term commercial deployment of humanoid robots** (i.e., “relatively infeasible compared with non-humanoid robots”), and provide a detailed justification of the key reasons for their infeasibility (also consider both commercial value and commercial feasibility).
+- List **two industries** that you believe have the **greatest potential for commercial deployment of humanoid robots** (i.e., “relatively feasible compared with non-humanoid robots”), and provide a detailed justification of the core reasons for their feasibility (focus on both commercial value and commercial feasibility).
+- List **two industries** that you believe are **least likely to see short-term commercial deployment of humanoid robots** (i.e., “relatively infeasible compared with non-humanoid robots”), and provide a detailed justification of the key reasons for their infeasibility (also consider both commercial value and commercial feasibility).
+
 
 
 2) **Market-entry feasibility** analysis
