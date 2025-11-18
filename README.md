@@ -5,11 +5,13 @@ Please analyze the overall feasibility of large-scale commercial deployment of h
 
 ## Specific analysis requirements:
 
-- Analysis of commercial feasibility —
-• List two industries that you believe have the greatest potential for commercial deployment of humanoid robots (i.e., “relatively feasible compared with non-humanoid robots”), and provide a detailed justification of the core reasons for their feasibility (focus on both commercial value and commercial feasibility).
-• List two industries that you believe are least likely to see short-term commercial deployment of humanoid robots (i.e., “relatively infeasible compared with non-humanoid robots”), and provide a detailed justification of the key reasons for their infeasibility (also consider both commercial value and commercial feasibility).
+1) Analysis of **commercial feasibility**
+
+• List **two industries** that you believe have the **greatest potential for commercial deployment of humanoid robots** (i.e., “relatively feasible compared with non-humanoid robots”), and provide a detailed justification of the core reasons for their feasibility (focus on both commercial value and commercial feasibility).
+• List **two industries** that you believe are **least likely to see short-term commercial deployment of humanoid robots** (i.e., “relatively infeasible compared with non-humanoid robots”), and provide a detailed justification of the key reasons for their infeasibility (also consider both commercial value and commercial feasibility).
 
 
-- Market-entry feasibility analysis —
-Assume your company is an automobile manufacturer. Based on your company’s resource endowments, analyze the advantages and disadvantages of entering the humanoid robot market. Beyond full-system manufacturing, which core components should you prioritize capturing and why?
+2) **Market-entry feasibility** analysis
+
+Assume your company is an **automobile manufacturer**. Based on your company’s resource endowments, analyze the advantages and disadvantages of entering the humanoid robot market. Beyond full-system manufacturing, which **core components** should you **prioritize capturing** and why?
 
